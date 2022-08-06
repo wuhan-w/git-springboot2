@@ -1,0 +1,5 @@
+datasource:
+  drive: "jdbc"
+  url: "jdbc:mysql://localhost?db"
+  username: "root"
+  password: "root"
